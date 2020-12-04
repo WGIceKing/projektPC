@@ -1,0 +1,4 @@
+﻿  projekt.cpp
+C:\Users\jakub\source\repos\projekt\projekt\projekt.cpp(476,14): warning C4101: "line": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\jakub\source\repos\projekt\projekt\projekt.cpp(218): warning C4715: "LiczbaGraczy”: niewszystkie ścieżki kodu zwracają wartość
+  projekt.vcxproj -> C:\Users\jakub\source\repos\projekt\Debug\projekt.exe

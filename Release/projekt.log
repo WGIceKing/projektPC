@@ -1,0 +1,8 @@
+﻿  projekt.cpp
+C:\Users\jakub\source\repos\projekt\projekt\projekt.cpp(474,14): warning C4101: "line": lokalna zmienna, do której nie istnieje odwołanie
+  Trwa generowanie kodu
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\jakub\source\repos\projekt\projekt\projekt.cpp(216): warning C4715: "LiczbaGraczy”: niewszystkie ścieżki kodu zwracają wartość
+  All 47 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Zakończono generowanie kodu
+  projekt.vcxproj -> C:\Users\jakub\source\repos\projekt\Release\projekt.exe
